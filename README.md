@@ -11,6 +11,12 @@
 <p> Hora do Dia feito com Javascript, muda o bakground conforme a hora do dia.</p>
 <img src="print3.png">
 
+<p> Tabuada simples,com JavaScript.</p>
+<img src="print4.png">
+
+<p> Contador de números,usando estruturas de repetição em Javascript.</p>
+<img src="print5.png">
+
 
 [ LinkedIn ](https://www.linkedin.com/in/larisselima/)
 
