@@ -17,6 +17,9 @@
 <p> Contador de números,usando estruturas de repetição em Javascript.</p>
 <img src="print5.png">
 
+<p> Análise de números com estruturas de Array.</p>
+<img src="print6.png">
+
 
 [ LinkedIn ](https://www.linkedin.com/in/larisselima/)
 

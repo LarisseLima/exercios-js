@@ -60,5 +60,3 @@ function finalizar() {
 }
 
 
-
-//"Adiciona exercício Analisador de Números parte 1"
