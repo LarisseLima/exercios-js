@@ -2,13 +2,16 @@
 
 <h2 align="center">Execícios práticos com JavaScript</h2>
 
-<p> Jogo Jokenpô feito com Javascript.O famoso jogo feito para jogar com o computador.</p>
+<p> Jogo Jokenpôt<br>
+  O famoso jogo feito para jogar com o computador.</p>
 <img src="print1.png">
 
-<p> Verificador de Idade feito com Javascript. Verifica a idade e gênero das pessoas.</p>
+<p> Verificador de Idade<br>
+  Verifica a idade e gênero das pessoas.</p>
 <img src="print2.png">
 
-<p> Hora do Dia feito com Javascript, muda o bakground conforme a hora do dia.</p>
+<p> Hora do Dia<br>
+  Muda o bakground conforme a hora do dia.</p>
 <img src="print3.png">
 
 <p> Tabuada simples,com JavaScript.</p>
